@@ -3,7 +3,7 @@
     "hw_platform": [
       "MTP", "Dragon", "Surf", "QRD" ],
     "soc_id": [
-      "300", "301", "507" ]
+      "300", "301" ]
   },
   "sns_wrist_pedo": {
     "owner": "sns_wrist_pedo",

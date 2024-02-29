@@ -834,10 +834,10 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/rhodep/proprietary/vendor/lib/vendor.qti.memory.pasrmanager@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.memory.pasrmanager@1.0.so \
     vendor/motorola/rhodep/proprietary/vendor/lib/vendor.qti.memory.pasrmanager@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.memory.pasrmanager@1.1.so \
     vendor/motorola/rhodep/proprietary/vendor/lib64/btaudio_offload_if.so:$(TARGET_COPY_OUT_VENDOR)/lib64/btaudio_offload_if.so \
-    vendor/motorola/rhodep/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_corfup_gc02m1_otp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_corfup_gc02m1_otp.so \
-    vendor/motorola/rhodep/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_corfup_ov16a1q_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_corfup_ov16a1q_eeprom.so \
-    vendor/motorola/rhodep/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_corfup_s5k4h7_otp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_corfup_s5k4h7_otp.so \
     vendor/motorola/rhodep/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_gt24p128e_s5kjn1_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_gt24p128e_s5kjn1_eeprom.so \
+    vendor/motorola/rhodep/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_rhodep_gc02m1_otp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_rhodep_gc02m1_otp.so \
+    vendor/motorola/rhodep/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_rhodep_ov16a1q_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_rhodep_ov16a1q_eeprom.so \
+    vendor/motorola/rhodep/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_rhodep_s5k4h7_otp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_rhodep_s5k4h7_otp.so \
     vendor/motorola/rhodep/proprietary/vendor/lib64/camera/com.qti.flash.aw36518.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.flash.aw36518.so \
     vendor/motorola/rhodep/proprietary/vendor/lib64/camera/com.qti.sensor.mot_gc02m1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.mot_gc02m1.so \
     vendor/motorola/rhodep/proprietary/vendor/lib64/camera/com.qti.sensor.mot_ov16a1q.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.mot_ov16a1q.so \

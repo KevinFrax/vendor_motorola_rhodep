@@ -68,10 +68,10 @@
         "data": "-x"
       },
       "y":{ "type": "str", "ver": "0",
-        "data": "-y"
+        "data": "+y"
       },
       "z":{ "type": "str", "ver": "0",
-        "data": "+z"
+        "data": "-z"
       }
     },
     ".mag":{
@@ -81,31 +81,31 @@
         ".corr_mat":{
           "owner": "sns_mmc56x3x",
           "0_0":{ "type": "flt", "ver": "0",
-            "data": "1.0"
+            "data": "0.994472"
           },
           "0_1":{ "type": "flt", "ver": "0",
-            "data": "0.0"
+            "data": "0.103335"
           },
           "0_2":{ "type": "flt", "ver": "0",
-            "data": "0.0"
+            "data": "-0.0151685"
           },
           "1_0":{ "type": "flt", "ver": "0",
-            "data": "0.0"
+            "data": "0.0922025"
           },
           "1_1":{ "type": "flt", "ver": "0",
-            "data": "1.0"
+            "data": "0.9946685"
           },
           "1_2":{ "type": "flt", "ver": "0",
-            "data": "0.0"
+            "data": "-0.0274975"
           },
           "2_0":{ "type": "flt", "ver": "0",
-            "data": "0.0"
+            "data": "0.041299"
           },
           "2_1":{ "type": "flt", "ver": "0",
-            "data": "0.0"
+            "data": "0.021829"
           },
           "2_2":{ "type": "flt", "ver": "0",
-            "data": "1.0"
+            "data": "1.1053055"
           }
         },
         ".bias":{
